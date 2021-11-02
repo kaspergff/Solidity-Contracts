@@ -4,6 +4,6 @@ Test are written in JavaScript
 
 Contracts:
 
-Hello World
+  - Hello World
 
-Simple token (ERC20 token)
+  - Simple token (ERC20 token)
