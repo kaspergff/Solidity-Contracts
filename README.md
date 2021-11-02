@@ -1,5 +1,6 @@
 Some basic Solidity Contracts made to practice dapp development
-Written with truffle
+Test are written in JavaScript
+
 
 Contracts:
 Hello World
